@@ -1,2 +1,6 @@
 # DataScience_Assignment
-데이터사이언스_실습
+
+
+Assignment1. 
+Assignment2. 
+Assignment3. 
