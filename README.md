@@ -1,5 +1,5 @@
 # DataScience_Assignment
 
 Goal: Data and information visualization
-/n
+\n
 Dataset: Health_screenings, Tips, Korea Income
